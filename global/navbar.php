@@ -9,7 +9,7 @@
                 <div class="uk-navbar-dropdown">
                     <ul class="uk-nav uk-navbar-dropdown-nav">
                         <li><a href="../franky.cv/cvFranky.php">Franky</a></li>
-                        <li><a href="../Brook/AKBrook.php">Brook</a></li>
+                        <li><a href="../brook/AKBrook.php">Brook</a></li>
                         <li><a href="../chopper/TCcv.php">Chopper</a></li>
                     </ul>
                 </div>

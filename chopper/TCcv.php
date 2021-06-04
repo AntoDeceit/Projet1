@@ -13,15 +13,15 @@
         <header>
             <div class="uk-child-width-1-2@s uk-light" uk-grid>
                 <div>
-                    <div class="uk-background-top-right uk-background-cover uk-height-medium  uk-visible@s" style="background-image: url(../assets/chopper/chopper15.gif);">
+                    <div class="uk-background-top-right uk-background-cover uk-height-large  uk-visible@s" style="background-image: url(../assets/chopper/chopper15.gif);">
                     </div>
                 </div>
                 <div>
-                    <div class="uk-background-top-left uk-background-cover uk-height-medium uk-panel uk-flex uk-flex-middle uk-flex-center  uk-visible@s" style="background-image: url(../assets/chopper/chopper12.gif);">
+                    <div class="uk-background-top-left uk-background-cover uk-height-large uk-panel uk-flex uk-flex-middle uk-flex-center  uk-visible@s" style="background-image: url(../assets/chopper/chopper12.gif);">
                     </div>
                 </div>
                 <div>
-                    <div class="uk-background-top-left uk-background-cover uk-height-medium uk-panel uk-flex uk-flex-middle uk-flex-center uk-hidden@s " style="background-image: url(../assets/chopper/chopper12.gif);">
+                    <div class="uk-background-top-left uk-background-cover uk-height-large uk-panel uk-flex uk-flex-middle uk-flex-center uk-hidden@s " style="background-image: url(../assets/chopper/chopper12.gif);">
                     </div>
                 </div>
                 <script>

@@ -3,8 +3,8 @@
     <div class="uk-navbar-left">
         <ul class="uk-navbar-nav ">
             <li class="uk-active"><a href="../global/index.php">Accueil</a></li>
-            <li><a href="./Akcontact.php">Contact</a></li>
-            <li><a href="./AkBrook.php">Retour</a></li>
+            <li><a href="./AKcontact.php">Contact</a></li>
+            <li><a href="./AKBrook.php">Retour</a></li>
             <li>
                 <a href="#">Curriculum Vitae</a>
                 <div class="uk-navbar-dropdown">
