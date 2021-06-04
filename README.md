@@ -6,4 +6,4 @@ pendant le mois de Mars 2021.
 
 => Html - Css - PHP - Responsive.
 
-Pour visualiser la page d'accueil du site vous pouvez lancer dans votre terminal la commande  php -S localhost:8000 -t global.
+Pour visualiser la page d'accueil du site vous pouvez lancer depuis la racine du projet votre serveur puis indiqué la route global/index.
