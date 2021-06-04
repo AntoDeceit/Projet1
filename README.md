@@ -6,4 +6,4 @@ pendant le mois de Mars 2021.
 
 => Html - Css - PHP - Responsive.
 
-Page d'accueil du site localhost:8000/global/index.
+Pour visualiser la page d'accueil du site vous pouvez lancer dans votre terminal la commande  php -S localhost:8000 -t global.
